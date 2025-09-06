@@ -1,5 +1,4 @@
 # Tailscale-DERP
-# Tailscale DERP Ansible
 
 > [!IMPORTANT]  
 > This project is considered **feature-complete** — it already does what it is intended to do.  
